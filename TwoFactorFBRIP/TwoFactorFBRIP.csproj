@@ -8,7 +8,7 @@
     <PackageId>TwoFactorFBRIP</PackageId>
     <Version>1.0.1</Version>
     <Authors>TwoFactorFBRIP</Authors>
-    <Description>A .NET 8 client library for interacting with the 2FA.fb.rip API to generate time-based one-time passwords (TOTP)</Description>
+    <Description>A .NET 10 client library for interacting with the 2FA.fb.rip API to generate time-based one-time passwords (TOTP)</Description>
     <PackageTags>2FA;TOTP;Authentication;OTP</PackageTags>
     <RepositoryUrl>https://github.com/ptraced/TwoFactorFBRIP</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
