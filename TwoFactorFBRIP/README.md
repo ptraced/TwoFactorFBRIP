@@ -1,6 +1,6 @@
 # TwoFactorFBRIP
 
-A .NET 8 client library for interacting with the 2FA.fb.rip API to generate time-based one-time passwords (TOTP).
+A .NET 10 client library for interacting with the 2FA.fb.rip API to generate time-based one-time passwords (TOTP).
 
 ## Installation
 
